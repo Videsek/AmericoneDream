@@ -5,7 +5,7 @@
 int main()
 {
 	//create a muthafucking window
-	sf::RenderWindow window(sf::VideoMode(1024,768),"fucking window");
+	sf::RenderWindow window(sf::VideoMode(1024,768),"Testing my new machine");
 	sf::CircleShape shape(500.f);
 	shape.setFillColor(sf::Color::Green);
 
