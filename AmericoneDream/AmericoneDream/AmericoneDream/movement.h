@@ -1,8 +1,11 @@
 #pragma once
-class movement
+class Movement
 {
 public:
-	movement(void);
-	~movement(void);
+	Movement(void);
+	~Movement(void);
+	void Init(float newSpeed);
+	
+	float speed;
 };
 

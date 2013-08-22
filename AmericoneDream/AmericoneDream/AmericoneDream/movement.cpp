@@ -1,11 +1,15 @@
 #include "movement.h"
 
 
-movement::movement(void)
+Movement::Movement(void)
 {
 }
 
 
-movement::~movement(void)
+Movement::~Movement(void)
 {
+}
+void Movement::Init(float newSpeed)
+{
+	speed = newSpeed;
 }

@@ -91,10 +91,12 @@
     <ClCompile Include="BaseCharacter.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="movement.cpp" />
+    <ClCompile Include="Vector2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BaseCharacter.h" />
     <ClInclude Include="movement.h" />
+    <ClInclude Include="Vector2.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
