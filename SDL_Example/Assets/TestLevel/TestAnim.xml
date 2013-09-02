@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="us-ascii" standalone="yes"?>
+<WindAnimatorAnimFile Name="Test" File="C:\Users\Glenn\Desktop\TYB Subversion\GameDevWeekend\Assets\TestAnim.png">
+  <Animation Name="AnimName" FrameCount="6" FrameWidth="48" FrameHeight="48">
+    <Frames>
+      <Frame FrameNumber="0" left="0" top="0" bottom="48" right="48" />
+      <Frame FrameNumber="1" left="48" top="0" bottom="48" right="96" />
+      <Frame FrameNumber="2" left="96" top="0" bottom="48" right="144" />
+      <Frame FrameNumber="3" left="144" top="0" bottom="48" right="192" />
+      <Frame FrameNumber="4" left="192" top="0" bottom="48" right="240" />
+      <Frame FrameNumber="5" left="240" top="0" bottom="48" right="288" />
+    </Frames>
+  </Animation>
+</WindAnimatorAnimFile>
